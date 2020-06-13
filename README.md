@@ -66,7 +66,7 @@ There are some files which I consider to be mandatory for any project.
      href="github.com/nikomc/data_analysis_visuals_template">
     <span property="dct:title">Niko McCarty</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
+  <span property="dct:title">A template repository for reproducible data analysis and visualization projects.</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="github.com/gchure/reproducible_research">
