@@ -1,17 +1,17 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# Git + GitHub As A Platform For Reproducible Data Analysis and Visualization
 
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+This repository sets out the skeleton of an organizational structure used for data analysis and visualization. It is based on an excellent GitHub repository from https://github.com/gchure for reproducible research in the biological sciences. I've made changes to the repository so that it can be readily used towards data analysis and visualization projects which rely on a combination of Python (or R) for data analysis and JavaScript libraries for visualization.
 
 ## How to Use
 To use this template for your research, fork this repository, change the name
 to something descriptive for your project, and adjust the licensing as you
 see fit.
 
-To use this repository for your own research, simply clone the repo using the following:
+To use this repository for your own research, simply clone the repo using the following command:
 
 ```
-git clone https://github.com/gchure/reproducible_research your_repo_title
+git clone https://github.com/nikomc/data_analysis_visuals_template your_repo_title
 ```
 
 > :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
@@ -63,8 +63,8 @@ There are some files which I consider to be mandatory for any project.
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="github.com/gchure/reproducible_research">
-    <span property="dct:title">Griffin Chure</span></a>
+     href="github.com/nikomc/data_analysis_visuals_template">
+    <span property="dct:title">Niko McCarty</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
 This work is published from:
